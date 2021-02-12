@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vkravets&repo=about-me)](https://github.com/vkravets/about-me)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vkravets&repo=about-me)](https://github.com/vkravets/about-me) -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vkravets&count_private=true&hide=contribs&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vkravets&count_private=true&hide=tsql&langs_count=7&theme=dracula&layout=compact)
